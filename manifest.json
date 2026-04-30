@@ -2,7 +2,7 @@
   "name": "PEXETAT",
   "short_name": "PEXETAT",
   "description": "Révise ton examen d'État avec quiz et Pomodoro",
-  "start_url": "/",
+  "start_url": "/Pexetat/"
   "display": "standalone",
   "theme_color": "#2e7d64",
   "background_color": "#0a0f1c",
